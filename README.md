@@ -144,7 +144,7 @@ L-3, S-I
 Department: CSE
 
 
-## TO
+## Submitted TO
 Name: Pankaj Bhowmik
 
 Lecturer
