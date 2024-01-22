@@ -9,7 +9,7 @@ The HSTU Automated Exam Routine Generator is a specialized software designed to 
 ## Features
 - HOME
   
-It provide the whole description of AERG. Also provide the power and limitation of thi Application
+It provide the whole description of AERG. Also provide the power and limitation of this Application
 
 - CREATE ROUTINE
 
