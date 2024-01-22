@@ -1,5 +1,6 @@
 ![HSTU-logo](https://github.com/ujjalroy1/Automated-Exam-Routine-Generator/assets/108274977/c383c571-4af3-4cbe-aafa-198e6d49a3a4)
-
+#### Course Title: Software Engineering
+#### Course Code: CSE305
 # Automated Exam Routine Generator
 
 The HSTU Automated Exam Routine Generator is a specialized software designed to streamline the process of creating optimal exam schedules for Hajee Mohammad Danesh Science and Technology University. Users input relevant information, and the software utilizes algorithms to efficiently generate and store well-organized routines, considering factors such as subject details, room allocation, and teacher availability. This user-friendly tool simplifies the task of creating and managing exam schedules for HSTU.
